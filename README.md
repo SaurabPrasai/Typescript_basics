@@ -1,2 +1,3 @@
 # Typescript_basics
-just learning typescript
+
+TypeScript adds syntax on top of JavaScript, allowing developers to add types.
